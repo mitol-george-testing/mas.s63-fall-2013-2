@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedical Enterprise"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Instrumentation"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Signal and Image Processing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3ed48997-b81e-aa90-ead6-2eab2c93ce21",
+      "ed134986-b322-073a-adfa-83a85fbe4f4d",
+      "df95f72c-24ee-f4f8-ca25-a7b1dea8b16b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Health: Towards the Tricorder",
+  "course_description": "Students will learn to fabricate, remix, and design detection and monitoring devices for health following the core focus of the Tricorder: a portable, handheld diagnostic device which can brings health solutions to consumers at home or in remote parts of the world. Inspired by the Tricorder X-Prize (with a purse of $10 million), students will aim to create specific component technologies that integrate into a comprehensive Tricorder mechanism capable of reading vital signs and specific disease biomarker detection. Component areas will include optical, electric, biochemical, and molecular diagnostics.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.S63",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
